@@ -13,6 +13,6 @@ Once you have installed the dependencies, you can run the app using:
 ```python app.py```
 The app should now be running on http://localhost:5000.
 
-# Usage
+## Usage
 To use the app, open your web browser and go to http://localhost:5000. You will see a simple form where you can enter the URL of the website you want to download. Once you have entered the URL, click the "Download" button and the app will create a ZIP archive containing the website's files.
 
