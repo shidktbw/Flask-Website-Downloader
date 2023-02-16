@@ -1,4 +1,5 @@
-![Снимок экрана_20230216_124252](https://user-images.githubusercontent.com/112849918/219343173-0e35f892-2d8b-43d9-9c16-cca0f03ef35d.png)
+
+![Снимок экрана_20230216_124333](https://user-images.githubusercontent.com/112849918/219343268-57b8a0fb-fc6d-4160-ad6f-3aec8b3f5eed.png)
 
 
 
