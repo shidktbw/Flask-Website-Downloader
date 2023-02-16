@@ -1,7 +1,7 @@
 ![Снимок экрана_20230216_122521](https://user-images.githubusercontent.com/112849918/219340442-98f487f8-e82b-49fc-b46e-4c33b3e1c110.png)
 
 
-##Website Downloader
+### Website Downloader
  This is a simple web app that allows you to download a website's HTML, CSS, and JS files. Simply enter the URL of the website you want to download and the app will create a ZIP archive containing the website's files.
 
 # Getting Started
