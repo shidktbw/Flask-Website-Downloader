@@ -20,6 +20,7 @@ def download():
     parsed_url = urlparse(url)
     if not parsed_url.scheme:
         url = urlunparse(('https',) + parsed_url[1:])
+        
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
 
