@@ -4,7 +4,7 @@
 ##Website Downloader
  This is a simple web app that allows you to download a website's HTML, CSS, and JS files. Simply enter the URL of the website you want to download and the app will create a ZIP archive containing the website's files.
 
-##Getting Started
+#Getting Started
 To run the app, you will need to install Python 3 and the required dependencies. You can do this by running:
 
 ```pip install -r requirements.txt```
